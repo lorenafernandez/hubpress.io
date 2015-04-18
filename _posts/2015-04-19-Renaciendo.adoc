@@ -1,0 +1,3 @@
+= Renaciendo...
+
+:hp-image: lorenafernandez.jpg
