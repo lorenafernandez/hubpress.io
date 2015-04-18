@@ -1,1 +1,7 @@
 = Y ya han pasado dos semanas en Ironhack!!
+
+:hp-tags: Ironhack, Ruby, Sinatra, CleanCode, TDD, Refactor
+
+Para mí supone un reto resumir tooodo lo que hemos aprendido durante este tiempo, porque ha sido mucho y muy bueno.
+
+La primera semana estuvimos con el gran Rafa de Castro
