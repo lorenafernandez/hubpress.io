@@ -1,8 +1,7 @@
 = Renaciendo...
 
-:hp-tags: Ironhack
 
-:published_at: 5 de abril de 2015
+:published_at: 2015-04-05
 
 *Porque para entenderme, hay ciertas cosas que tienes que saber…*
 
