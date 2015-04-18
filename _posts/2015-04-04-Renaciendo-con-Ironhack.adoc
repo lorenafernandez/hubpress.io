@@ -26,7 +26,7 @@ Encontré trabajo en una Consultoría de Señalización Vial, como miembro del D
 
 Pero notaba falta de conocimientos cuando me enfrentaba a las tareas de desarrollo. Enseguida me di cuenta que lo que yo había aprendido por mi cuenta (HTML5, CSS3 y PHP), más todo el _background_ acumulado durante mis años en la Universidad, no era suficiente. Sacaba mis tareas adelante, pero sabiendo que habría mil formas de hacerlo mejor.
 
-Al mismo tiempo, seguía trabajando en la página web de mi amigo. En ese momento colaboraba con un antiguo alumno de la Universidad, al que le contaba mis frustraciones con Ruby. Fue él quien me descubrió Ironhack (gracias Pablo!). Y desde ese momento supe que tenía que hacerlo! No sabía cómo, pero sí sabía que en abril tenía que estar ahí :) Y estoy!!
+Al mismo tiempo, seguía trabajando en la página web de mi amigo. En ese momento colaboraba con un antiguo alumno de la Universidad, al que le contaba mis frustraciones con Ruby. Fue él quien me descubrió Ironhack (gracias https://www.linkedin.com/in/pabloparejo[Pablo Parejo]!). Y desde ese momento supe que tenía que hacerlo! No sabía cómo, pero sí sabía que en abril tenía que estar ahí :) Y estoy!!
 
 
 Tengo muchas ganas de empezar y mucha ilusión puesta en el _bootcamp_. Creo que es el sitio óptimo para eliminar malos hábitos y aprender de la mano de profesionales de alto nivel. Me esperan un par de meses que prometen ser duros…
