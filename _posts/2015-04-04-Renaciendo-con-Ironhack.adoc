@@ -2,7 +2,7 @@
 
 
 :published_at: 2015-04-04
-:hp-image: lorenafernandez.jpg[Lorena,400,400]
+:hp-image: lorenafernandez.jpg
 
 *Porque para entenderme, hay ciertas cosas que tienes que saber…*
 
