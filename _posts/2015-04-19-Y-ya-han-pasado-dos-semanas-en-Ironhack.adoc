@@ -4,15 +4,18 @@
 
 :published_at: 2015-04-19
 
-:hp-image: post2_collage.jpg[Collage]
-
+:hp-image: post2_collage.jpg
 
 :hp-tags: Ironhack, Ruby, Sinatra, CleanCode, TDD, Refactor
 
 Para mí supone un reto resumir tooodo lo que hemos aprendido durante este tiempo, porque ha sido mucho y, lo mejor, muy bueno.
 
-Nos ha enseñado *Orientación a Objetos* con Ruby, buscando siempre _CleanCode_ con _Refactor_, _Refactor_, _Refactor_! En la parte de _Git_ no se ha conformado con la teoría. Nos ha enseñado cómo trabaja él en sus proyectos y ha sido muy clarificador (aunque el proyecto era tremendo y había un montón de ramas  :)) También nos ha enseñado a trabajar con _Pry_ para depurar, y ha sido un gran descubrimiento. Hemos hecho _PairProgramming_, donde nos ha enseñado las “buenas prácticas entre compañeros” para que todo esté _ok_.
+La primera semana estuvimos con el gran {url-rafadecastro}[Rafa de Castro]. No puedo definirlo de otra manera que no sea "grande". Es difícil encontrar a alguien con el nivel técnico de Rafa. Pero más difícil todavía es que un profesional así sepa “descender” al nivel de sus alumnos y transmitir con tanta pasión y tanto entusiasmo como lo ha hecho él, durante más de 8 horas al día!! Por eso sólo puedo decir: GRAN *profesional* y GRAN *docente*.
 
-Y mucho más
+Nos ha enseñado Orientación a Objetos con Ruby, buscando siempre _CleanCode_ con _Refactor_, _Refactor_, _Refactor_! En la parte de _Git_ no se ha conformado con la teoría. Nos ha enseñado cómo trabaja él en sus proyectos y ha sido muy clarificador (aunque el proyecto era tremendo y había un montón de ramas  :)) También nos ha enseñado a trabajar con _Pry_ para depurar, y ha sido un gran descubrimiento. Hemos hecho _PairProgramming_, donde nos ha enseñado las “buenas prácticas entre compañeros” para que todo esté _ok_.
+
+Y mucho más, porque hemos terminado la semana programando un ajedrez! 
+
+En la segunda semana el profe fue Fernando
 
 Por último, pero no menos importante, mis compañeros. Gracias a ellos también por hacerlo todo tan fácil, por intentar ayudar siempre, por la motivación individual de todos, que hace que el equipo avance siempre en la misma dirección y a gran velociadad! Poco a poco nos estamos convirtiendo en una pequeña familia… 
