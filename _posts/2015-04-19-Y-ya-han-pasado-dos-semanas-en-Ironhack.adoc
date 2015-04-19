@@ -4,7 +4,7 @@
 
 :published_at: 2015-04-19
 
-:hp-image: post2_collage.jpg
+:hp-image: post2_collage.jpg[Collage]
 
 
 :hp-tags: Ironhack, Ruby, Sinatra, CleanCode, TDD, Refactor
