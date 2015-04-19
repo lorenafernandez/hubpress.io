@@ -1,6 +1,7 @@
 :url-rafadecastro: https://www.linkedin.com/in/rafadecastro
 :url-fernando: https://www.linkedin.com/profile/view?id=95077086&authType=NAME_SEARCH&authToken=5v2P&locale=es_ES&srchid=2128970501429399918152&srchindex=3&srchtotal=555&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A2128970501429399918152%2CVSRPtargetId%3A95077086%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue
 :url-leo: https://www.linkedin.com/in/lantoli
+:url-israel: https://www.linkedin.com/in/israelsanjosegonzalez
 
 = Y ya han pasado dos semanas en Ironhack!!
 
