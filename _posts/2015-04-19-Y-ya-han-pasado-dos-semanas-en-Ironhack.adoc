@@ -2,7 +2,10 @@
 
 = Y ya han pasado dos semanas en Ironhack!!
 
+:published_at: 2015-04-19
+
 :hp-image: post2_collage.jpg
+
 
 :hp-tags: Ironhack, Ruby, Sinatra, CleanCode, TDD, Refactor
 
