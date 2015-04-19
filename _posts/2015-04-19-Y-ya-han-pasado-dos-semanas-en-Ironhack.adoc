@@ -2,11 +2,12 @@
 
 = Y ya han pasado dos semanas en Ironhack!!
 
-:logo: lorenafernandez.jpg
+:hp-image: post2_collage.jpg
 
 :hp-tags: Ironhack, Ruby, Sinatra, CleanCode, TDD, Refactor
 
 Para mí supone un reto resumir tooodo lo que hemos aprendido durante este tiempo, porque ha sido mucho y, lo mejor, muy bueno.
 
-La primera semana estuvimos con el gran {url-rafadecastro}[Rafa de Castro]. No puedo definirlo de otra manera que no sea "grande". Es difícil encontrar a alguien con el nivel técnico de Rafa. Pero más difícil todavía es que alguien con tanto conocimiento baje tan fácilmente al nivel de sus alumnos y consiga hacer fácil lo difícil, transmitiendo entusiasmo y pasión durante más de 8 horas de clase. Por eso sólo puedo decir: GRAN *profesional* y GRAN *docente*
+La primera semana estuvimos con el gran {url-rafadecastro}[Rafa de Castro]. No puedo definirlo de otra manera que no sea "grande". Es difícil encontrar a alguien con el nivel técnico de Rafa. Pero más difícil todavía es que un profesional así sepa “descender” al nivel de sus alumnos y transmitir con tanta pasión y tanto entusiasmo como lo ha hecho él, durante más de 8 horas al día!! Por eso sólo puedo decir: GRAN *profesional* y GRAN *docente*.Crea adicción!
 
+Nos ha enseñado orientación a objetos con Ruby, buscando siempre _CleanCode_ con _Refactor_, _Refactor_, _Refactor_! 
