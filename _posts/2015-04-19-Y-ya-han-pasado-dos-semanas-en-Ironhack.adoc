@@ -1,0 +1,15 @@
+:url-rafadecastro: https://www.linkedin.com/in/rafadecastro
+
+= Y ya han pasado dos semanas en Ironhack!!
+
+:hp-image: post2_collage.jpg
+
+:hp-tags: Ironhack, Ruby, Sinatra, CleanCode, TDD, Refactor
+
+Para mí supone un reto resumir tooodo lo que hemos aprendido durante este tiempo, porque ha sido mucho y, lo mejor, muy bueno.
+
+Nos ha enseñado *Orientación a Objetos* con Ruby, buscando siempre _CleanCode_ con _Refactor_, _Refactor_, _Refactor_! En la parte de _Git_ no se ha conformado con la teoría. Nos ha enseñado cómo trabaja él en sus proyectos y ha sido muy clarificador (aunque el proyecto era tremendo y había un montón de ramas  :)) También nos ha enseñado a trabajar con _Pry_ para depurar, y ha sido un gran descubrimiento. Hemos hecho _PairProgramming_, donde nos ha enseñado las “buenas prácticas entre compañeros” para que todo esté _ok_.
+
+Y mucho más
+
+Por último, pero no menos importante, mis compañeros. Gracias a ellos también por hacerlo todo tan fácil, por intentar ayudar siempre, por la motivación individual de todos, que hace que el equipo avance siempre en la misma dirección y a gran velociadad! Poco a poco nos estamos convirtiendo en una pequeña familia… 
