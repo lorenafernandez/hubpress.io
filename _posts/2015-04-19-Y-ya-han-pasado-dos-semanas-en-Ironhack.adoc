@@ -2,6 +2,7 @@
 :url-fernando: https://www.linkedin.com/profile/view?id=95077086&authType=NAME_SEARCH&authToken=5v2P&locale=es_ES&srchid=2128970501429399918152&srchindex=3&srchtotal=555&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A2128970501429399918152%2CVSRPtargetId%3A95077086%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue
 :url-leo: https://www.linkedin.com/in/lantoli
 :url-israel: https://www.linkedin.com/in/israelsanjosegonzalez
+:url-marta: https://www.linkedin.com/in/martafonda
 
 = Y ya han pasado dos semanas en Ironhack!!
 
@@ -19,6 +20,12 @@ Nos ha enseñado Orientación a Objetos con Ruby, buscando siempre _CleanCode_ c
 
 Y mucho más, porque hemos terminado la semana programando un ajedrez! 
 
-En la segunda semana el profe ha sido {url-fernando}[Fernando Moreno], que nos lleva acompañando desde el _pre-work_, por lo que la semana ha sido “más familiar”. Ya conoce nuestros puntos fuertes y débiles, así que nos ha guiado siempre de forma óptima. Con él hemos aprendido a crear proyectos en Ruby con Sinatra, a hacer tests unitarios y TDD!! Y todo esto, sí, en una semana que ha terminado con una kata de TDD, organizada por {url-leo}[Leo Antoli]. Me ha gustado mucho la experiencia, ya que no había estado antes en ninguna. Muy emocionante!
+En la segunda semana el profe ha sido {url-fernando}[Fernando Moreno], que nos lleva acompañando desde el _pre-work_, por lo que la semana ha sido “más familiar”. Ya conoce nuestros puntos fuertes y débiles, así que nos ha guiado siempre de forma óptima. Con él hemos aprendido a crear proyectos en Ruby con Sinatra, a hacer tests unitarios y TDD!! Y todo esto en una semana :) 
+
+La semana ha terminado con una kata de TDD, organizada por {url-leo}[Leo Antoli]. Me ha gustado mucho la experiencia, ya que no había estado antes en ninguna. Muy emocionante!
+
+También hemos tenido un par de charlas muy interesantes. La primera semana vino a vernos {url-israel}[Israel San José], de _eDreams_ y nos habló sobre el emprendimiento desde su propia y exitosa experiencia. Un placer oírlo…
+
+La segunda semana vino {url-marta}[Marta Fonda], alumna de la primera edición de Ironhack y un claro ejemplo a seguir. Tenía muchas ganas de conocerla en persona, ya que había leído su blog antes de empezar esta aventura y su relato del _bootcamp_ me hizo ver la grandeza del mismo. Me encantó verla y pasar un rato con ella, escuchando de viva voz sus experiencias en Ironhack.
 
 Por último, pero no menos importante, mis compañeros. Desde aquí también quiero darles las gracias a ellos por hacerlo todo tan fácil, por intentar ayudar siempre, por la motivación individual de cada uno de ellos, que hace que el equipo avance siempre en la misma dirección y a gran velociadad! Poco a poco nos estamos convirtiendo en una pequeña familia… 
