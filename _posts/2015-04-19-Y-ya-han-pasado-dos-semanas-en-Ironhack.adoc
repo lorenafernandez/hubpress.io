@@ -1,4 +1,5 @@
 :url-rafadecastro: https://www.linkedin.com/in/rafadecastro
+:url-fernando :
 
 = Y ya han pasado dos semanas en Ironhack!!
 
