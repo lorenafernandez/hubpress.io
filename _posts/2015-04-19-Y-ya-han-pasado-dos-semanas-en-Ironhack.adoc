@@ -12,7 +12,7 @@
 
 Para mí supone un reto resumir tooodo lo que hemos aprendido durante este tiempo, porque ha sido mucho y, lo mejor, muy bueno.
 
-La primera semana estuvimos con el gran {url-rafadecastro}[Rafa de Castro]. No puedo definirlo de otra manera que no sea "grande". Es difícil encontrar a alguien con el nivel técnico de Rafa. Pero más difícil todavía es que un profesional así sepa “descender” al nivel de sus alumnos y transmitir con tanta pasión y tanto entusiasmo como lo ha hecho él, durante más de 8 horas al día!! Por eso sólo puedo decir: GRAN *profesional* y GRAN *docente*.
+La primera semana hemos estado con el gran {url-rafadecastro}[Rafa de Castro]. No puedo definirlo de otra manera que no sea "grande". Es difícil encontrar a alguien con el nivel técnico de Rafa. Pero es más difícil todavía que un profesional así sepa “bajar” al nivel de sus alumnos y transmitir con tanta pasión y tanto entusiasmo como lo ha hecho él, durante más de 8 horas al día!! Por eso sólo puedo decir: GRAN *profesional* y GRAN *docente*. 
 
 Nos ha enseñado Orientación a Objetos con Ruby, buscando siempre _CleanCode_ con _Refactor_, _Refactor_, _Refactor_! En la parte de _Git_ no se ha conformado con la teoría. Nos ha enseñado cómo trabaja él en sus proyectos y ha sido muy clarificador (aunque el proyecto era tremendo y había un montón de ramas  :)) También nos ha enseñado a trabajar con _Pry_ para depurar, y ha sido un gran descubrimiento. Hemos hecho _PairProgramming_, donde nos ha enseñado las “buenas prácticas entre compañeros” para que todo esté _ok_.
 
