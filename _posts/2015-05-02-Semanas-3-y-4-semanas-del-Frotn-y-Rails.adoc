@@ -1,0 +1,4 @@
+= Semanas 3 y 4, semanas del Frotn y Rails...
+
+
+:hp-image: img_post3.jpg

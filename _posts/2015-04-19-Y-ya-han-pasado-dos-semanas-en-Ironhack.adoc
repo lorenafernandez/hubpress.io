@@ -1,18 +1,31 @@
 :url-rafadecastro: https://www.linkedin.com/in/rafadecastro
+:url-fernando: https://www.linkedin.com/profile/view?id=95077086&authType=NAME_SEARCH&authToken=5v2P&locale=es_ES&srchid=2128970501429399918152&srchindex=3&srchtotal=555&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A2128970501429399918152%2CVSRPtargetId%3A95077086%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue
+:url-leo: https://www.linkedin.com/in/lantoli
+:url-israel: https://www.linkedin.com/in/israelsanjosegonzalez
+:url-marta: https://www.linkedin.com/in/martafonda
 
 = Y ya han pasado dos semanas en Ironhack!!
 
 :published_at: 2015-04-19
 
-:hp-image: post2_collage.jpg[Collage]
+:hp-image: post2_collage.jpg
 
-
-:hp-tags: Ironhack, Ruby, Sinatra, CleanCode, TDD, Refactor
+:hp-tags: Ironhack, Ruby, CleanCode, Refactor, Sinatra, TDD
 
 Para mí supone un reto resumir tooodo lo que hemos aprendido durante este tiempo, porque ha sido mucho y, lo mejor, muy bueno.
 
-Nos ha enseñado *Orientación a Objetos* con Ruby, buscando siempre _CleanCode_ con _Refactor_, _Refactor_, _Refactor_! En la parte de _Git_ no se ha conformado con la teoría. Nos ha enseñado cómo trabaja él en sus proyectos y ha sido muy clarificador (aunque el proyecto era tremendo y había un montón de ramas  :)) También nos ha enseñado a trabajar con _Pry_ para depurar, y ha sido un gran descubrimiento. Hemos hecho _PairProgramming_, donde nos ha enseñado las “buenas prácticas entre compañeros” para que todo esté _ok_.
+La primera semana hemos estado con el gran {url-rafadecastro}[Rafa de Castro]. No puedo definirlo de otra manera que no sea "grande". Es difícil encontrar a alguien con el nivel técnico de Rafa. Pero es más difícil todavía que un profesional así sepa “bajar” al nivel de sus alumnos y transmitir con tanta pasión y tanto entusiasmo como lo ha hecho él, durante más de 8 horas al día!! Por eso sólo puedo decir: GRAN *profesional* y GRAN *docente*. 
 
-Y mucho más
+Nos ha enseñado Orientación a Objetos con Ruby, buscando siempre _CleanCode_ con _Refactor_, _Refactor_, _Refactor_! En la parte de _Git_ no se ha conformado con la teoría. Nos ha enseñado cómo trabaja él en sus proyectos y ha sido muy clarificador (aunque el proyecto era tremendo y había un montón de ramas  :)) También nos ha enseñado a trabajar con _Pry_ para depurar, y ha sido un gran descubrimiento. Hemos hecho _Pair Programming_, donde nos ha enseñado las “buenas prácticas entre compañeros” para que todo esté _ok_.
 
-Por último, pero no menos importante, mis compañeros. Gracias a ellos también por hacerlo todo tan fácil, por intentar ayudar siempre, por la motivación individual de todos, que hace que el equipo avance siempre en la misma dirección y a gran velociadad! Poco a poco nos estamos convirtiendo en una pequeña familia… 
+Y mucho más, porque hemos terminado la semana programando un ajedrez! 
+
+En la segunda semana el profe ha sido {url-fernando}[Fernando Moreno], que nos lleva acompañando desde el _pre-work_, por lo que la semana ha sido “más familiar”. Ya conoce nuestros puntos fuertes y débiles, así que nos ha guiado siempre de forma óptima. Con él hemos aprendido a crear proyectos en Ruby con Sinatra, a hacer tests unitarios y TDD!! Y todo esto en una semana :) 
+
+La semana ha terminado con una kata de TDD, organizada por {url-leo}[Leo Antoli]. Me ha gustado mucho la experiencia, ya que no había estado antes en ninguna. Muy emocionante!
+
+También hemos tenido un par de charlas muy interesantes. La primera semana vino a vernos {url-israel}[Israel San José], de _eDreams_ y nos habló sobre el emprendimiento desde su propia y exitosa experiencia. Un placer oírlo…
+
+La segunda semana vino {url-marta}[Marta Fonda], alumna de la primera edición de Ironhack y un claro ejemplo a seguir. Tenía muchas ganas de conocerla en persona, ya que había leído su blog antes de empezar esta aventura y su relato del _bootcamp_ me hizo ver la grandeza del mismo. Me encantó verla y pasar un rato con ella, escuchando de viva voz sus experiencias en Ironhack.
+
+Por último, pero no menos importante, mis compañeros. Desde aquí también quiero darles las gracias a ellos por hacerlo todo tan fácil, por intentar ayudar siempre, por la motivación individual de cada uno de ellos, que hace que el equipo avance siempre en la misma dirección y a gran velociadad! Poco a poco nos estamos convirtiendo en una pequeña familia… 
